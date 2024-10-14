@@ -1,0 +1,2 @@
+# Image-Processing-Toolkit
+一个用于处理tif文件的工具包，包括使用kfb转tif工具批量转换，将tif图下采样，按最短边切正方形以及切小块图像为jpg格式等
